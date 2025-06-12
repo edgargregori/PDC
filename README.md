@@ -1,3 +1,4 @@
+
 # PDC
 
 # clonning
@@ -10,6 +11,15 @@ git status
 git add .
 git commit -m "message"
 git push origin main
+
+
+
+ git push origin ttg/3ro
+
+
+git checkout elt/4to
+
+
 
 
 
